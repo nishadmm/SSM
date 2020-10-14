@@ -401,7 +401,6 @@ h1, h2, h3, h4, h5, h6 {
      height: 60vh;
      margin-bottom: 3rem;
      border-radius: 20px;
-     overflow: hidden;
    }
 
    #fac .fac-container h1{
@@ -421,6 +420,7 @@ h1, h2, h3, h4, h5, h6 {
      text-align: center;
      border-bottom: 1px dotted #e7e7e7;
      text-shadow: 4px 4px  #ffffff;
+     overflow: hidden;
    }
 
    #fac .fac-container ul li a{
