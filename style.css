@@ -401,6 +401,7 @@ h1, h2, h3, h4, h5, h6 {
      height: 60vh;
      margin-bottom: 3rem;
      border-radius: 20px;
+     overflow: hidden;
    }
 
    #fac .fac-container h1{
@@ -521,7 +522,7 @@ h1, h2, h3, h4, h5, h6 {
    #address{
      position: relative;
      background-color: #333333;
-     width: 99vw;
+     width: 100vw;
      height: 50vh;
    }
 

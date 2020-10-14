@@ -32,7 +32,7 @@ $('#navbar a, #main-footer a, #show-case a').on('click', function(event) {
       {
         scrollTop: $(hash).offset().top - 100
       },
-      1500
+      1100
     );
   }
 });
