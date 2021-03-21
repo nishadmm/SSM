@@ -1,4 +1,4 @@
 # SSM
 >SSM Polytechnic College Tirur
 
-![SSM](/images/logo.png)
+![SSM](/img/ssm3.png)
